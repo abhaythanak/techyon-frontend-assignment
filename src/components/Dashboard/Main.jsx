@@ -103,7 +103,7 @@ const Main = ({data,text,hide}) => {
       <div className="flex flex-wrap my-5 -mx-2 ">
       
         <div className="w-full ">
-          <div className="flex justify-center items-center w-full flex-wrap gap-9 rounded-md p-3  ">
+          <div className="flex justify-center items-center w-full flex-wrap gap-9 rounded-md p-3 ">
             
             <Card />
 
